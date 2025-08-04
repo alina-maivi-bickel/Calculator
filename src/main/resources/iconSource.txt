@@ -12,3 +12,14 @@ multiplication-button:
 
 division-button:
 <a href="https://www.flaticon.com/de/kostenlose-icons/schragstrich" title="schrägstrich Icons">Schrägstrich Icons erstellt von Md Tanvirul Haque - Flaticon</a>
+
+equals-button:
+<a href="https://www.flaticon.com/de/kostenlose-icons/gleich" title="gleich Icons">Gleich Icons erstellt von Md Tanvirul Haque - Flaticon</a>
+
+numbers from 1-9:
+<a href="https://www.flaticon.com/de/kostenlose-icons/zahlen" title="zahlen Icons">Zahlen Icons erstellt von Md Tanvirul Haque - Flaticon</a>
+
+
+
+
+
