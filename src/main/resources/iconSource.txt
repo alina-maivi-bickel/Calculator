@@ -16,10 +16,11 @@ division-button:
 equals-button:
 <a href="https://www.flaticon.com/de/kostenlose-icons/gleich" title="gleich Icons">Gleich Icons erstellt von Md Tanvirul Haque - Flaticon</a>
 
-numbers from 1-9:
+numbers from 0-9:
 <a href="https://www.flaticon.com/de/kostenlose-icons/zahlen" title="zahlen Icons">Zahlen Icons erstellt von Md Tanvirul Haque - Flaticon</a>
 
-
+delete-icon:
+<a href="https://www.flaticon.com/free-icons/cancel" title="cancel icons">Cancel icons created by Alfredo Hernandez - Flaticon</a>
 
 
 
