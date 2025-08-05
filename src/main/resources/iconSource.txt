@@ -1,1 +1,26 @@
+title-icon:
 <a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Calculator icons created by Dewi Sari - Flaticon</a>
+
+addition-button:
+<a href="https://www.flaticon.com/de/kostenlose-icons/plus" title="plus Icons">Plus Icons erstellt von Md Tanvirul Haque - Flaticon</a>
+
+subtraction-button:
+<a href="https://www.flaticon.com/de/kostenlose-icons/minus" title="minus- Icons">Minus- Icons erstellt von Md Tanvirul Haque - Flaticon</a>
+
+multiplication-button:
+<a href="https://www.flaticon.com/de/kostenlose-icons/sternchen" title="sternchen Icons">Sternchen Icons erstellt von Md Tanvirul Haque - Flaticon</a>
+
+division-button:
+<a href="https://www.flaticon.com/de/kostenlose-icons/schragstrich" title="schrägstrich Icons">Schrägstrich Icons erstellt von Md Tanvirul Haque - Flaticon</a>
+
+equals-button:
+<a href="https://www.flaticon.com/de/kostenlose-icons/gleich" title="gleich Icons">Gleich Icons erstellt von Md Tanvirul Haque - Flaticon</a>
+
+numbers from 0-9:
+<a href="https://www.flaticon.com/de/kostenlose-icons/zahlen" title="zahlen Icons">Zahlen Icons erstellt von Md Tanvirul Haque - Flaticon</a>
+
+delete-icon:
+<a href="https://www.flaticon.com/free-icons/cancel" title="cancel icons">Cancel icons created by Alfredo Hernandez - Flaticon</a>
+
+
+
